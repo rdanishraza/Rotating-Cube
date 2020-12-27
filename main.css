@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    height: 100vp;
+}
+
+canvas{
+    display: block;
+}
+h1{
+    position: absolute;
+    top: 1em;
+    left: 30%;
+    font-family: Montserrat;
+    font-size: 2em;
+    text-transform: uppercase;
+    width: auto;
+    line-height: auto;
+    border: 5px solid brown;
+    padding: 0.1em;
+}
